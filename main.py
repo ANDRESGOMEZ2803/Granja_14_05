@@ -3,6 +3,8 @@ from granja import Granja
 def main():
     granja = Granja()
 
+   print("Bienvenido al sistema de gesti\u00f3n de la granja") 
+
     while True:
         print("\n-- Menu --")
         print("1. Agregar cultivo")
